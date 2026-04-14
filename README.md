@@ -2,6 +2,9 @@
 
 main: adjust resource for profit.
 
+# solar panel
+
+
 ##openclaw -> vscode
 to buid websit
 
